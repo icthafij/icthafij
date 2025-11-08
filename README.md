@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafijur Rahman</h1>
-<h3 align="center">A passionaWordPress expert, web designer, and developer. I create purposeful, user-friendly websites that support company expansion. I enjoy turning concepts into digital reality and coaching aspiring web developers.te frontend developer from India</h3>
+<h3 align="center">Web Designer, Developer & WordPress Expert creating clean, modern websites that help businesses grow and bring ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icthafij&label=Profile%20views&color=0e75b6&style=flat" alt="icthafij" /> </p>
 
@@ -28,8 +28,6 @@
 <a href="https://twitter.com/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icthafij" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icthafij" height="30" width="40" /></a>
 <a href="https://fb.com/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="icthafij" height="30" width="40" /></a>
-<a href="https://dribbble.com/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="icthafij" height="30" width="40" /></a>
-<a href="https://www.behance.net/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="icthafij" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="icthafij" height="30" width="40" /></a>
 </p>
 
@@ -41,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icthafij&show_icons=true&locale=en" alt="icthafij" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icthafij&" alt="icthafij" /></p>
-

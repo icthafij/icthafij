@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafijur Rahman</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFXc-8PWqorcA/profile-displaybackgroundimage-shrink_350_1400/B56ZpFAmPDJYAc-/0/1762094377054?e=1764201600&v=beta&t=SPV_Z_bDi0BdUgbPF6j_OaIaQKNNHM32_kID79DGAWQ">
 <h3 align="center">Web Designer, Developer & WordPress Expert creating clean, modern websites that help businesses grow and bring ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icthafij&label=Profile%20views&color=0e75b6&style=flat" alt="icthafij" /> </p>

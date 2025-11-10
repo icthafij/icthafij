@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hafij.cseiu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bRpj17BEa9AUKMUOV969fkb-adKKIwiX/view?usp=sharing](https://drive.google.com/file/d/1bRpj17BEa9AUKMUOV969fkb-adKKIwiX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19uI9UPt-BKum32bHWczyLwyRvHUnDGcO/view?usp=sharing]
 
 - ⚡ Fun fact **Coding, Learning**
 

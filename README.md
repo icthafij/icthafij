@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icthafij" alt="icthafij" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Freelance Web Designer & Developer**
 
-- 🌱 I’m currently learning **Laravel, NextjS, MongoDB**
+- 🌱 I’m currently learning **Laravel, Next.js, MongoDB** to expand full-stack skills
 
-- 👯 I’m looking to collaborate on **Web Design Development**
+- 👯 I’m looking to collaborate on **Web Design Development, WordPress and Landing Page Projects**
 
 - 🤝 I’m looking for help with **Web Design Development & WordPress Development**
 

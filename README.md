@@ -22,6 +22,11 @@
 
 - ⚡ Fun fact **I manage sites efficiently using smart tools & experience.**
 
+<h3 align="left">🛡️ Certifications & Training:</h3>
+
+- 🎓 **AI & Cyber Security Fundamentals** - *Bangladesh Computer Council (BCC)* (March 2026)
+  - **Focus:** Cyber Security Essentials, MFA, Password Management, Data Privacy & AI for Productivity.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icthafij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icthafij" height="30" width="40" /></a>

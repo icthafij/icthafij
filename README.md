@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFXc-8PWqorcA/profile-displaybackgroundimage-shrink_350_1400/B56ZpFAmPDJYAc-/0/1762094377054?e=1764201600&v=beta&t=SPV_Z_bDi0BdUgbPF6j_OaIaQKNNHM32_kID79DGAWQ" alt="Banner">
 
-<h3 align="center">Senior WordPress Specialist & eCommerce Webmaster.<br>Creating high-converting websites with Premium Tools & No-Code Solutions.</h3>
+<h3 align="center">Senior WordPress Specialist & eCommerce Webmaster.<br>Creating secure & high-converting websites with Premium Tools & No-Code Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icthafij&label=Profile%20views&color=0e75b6&style=flat" alt="icthafij" /> </p>
 
